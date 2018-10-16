@@ -2,7 +2,7 @@
 
 You can set up code coverage with [SonarQube](https://www.sonarqube.org/).
 
-In this example, we set some variables in our `sonar-project.properties` file. These will be used by SonarQube to generate code coverage results and code analysis.
+In this example, we set some variables in our `sonar-project.properties` file. These variables will be used by SonarQube to generate code coverage results and code analysis.
 
 See [Screwdriver documentation for SonarQube configuration](https://docs.screwdriver.cd/user-guide/configuration/code-coverage#sonarqube) for more details.
 
